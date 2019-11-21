@@ -9905,10 +9905,9 @@ testem@^2.9.2:
     tmp "0.0.33"
     xmldom "^0.1.19"
 
-tether@2.0.0-beta.4:
+tether@shipshapecode/tether#master:
   version "2.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/tether/-/tether-2.0.0-beta.4.tgz#5ad19a425c63d0ba9972b16e670ff192b09c8658"
-  integrity sha512-4VhiB7YqN2R5EJRj96HIPnaFWC9Xot2J0zTUHgItyYlq0pACXSiBaj9iIwfgD+O89aab9HdBd8iXjGfpz57B4A==
+  resolved "https://codeload.github.com/shipshapecode/tether/tar.gz/ce4966e175d9070840ca3c46dac23cf6eceb8757"
 
 text-table@~0.2.0:
   version "0.2.0"
