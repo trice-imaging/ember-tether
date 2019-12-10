@@ -1,4 +1,6 @@
 {
+  "private": true,
+  "workspaces": ["tether"],
   "name": "ember-tether",
   "version": "2.0.1",
   "description": "Tether an element to another element in the DOM",
