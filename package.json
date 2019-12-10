@@ -24,7 +24,7 @@
   "dependencies": {
     "ember-auto-import": "^1.2.19",
     "ember-cli-babel": "^7.1.2",
-    "tether": "shipshapecode/tether#master"
+    "tether": "2.0.0-beta.5"
   },
   "devDependencies": {
     "@ember/jquery": "^0.6.0",
